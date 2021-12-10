@@ -57,7 +57,7 @@ footer h2 {
     margin: 0;
 }
 footer div {
-    float:right
+    float:right;
     line-height: 1.5;
     text-align:right;
 }
@@ -69,7 +69,7 @@ section {
 }
 /* Hero Style Start */
 .hero {
-    background-image: url("..run-buddy/images/hero-bg.jpg");
+    background-image: url("../images/hero-bg.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
